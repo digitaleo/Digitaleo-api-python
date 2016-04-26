@@ -10,7 +10,7 @@ Installation
 -------------
 
 ```bash
-pip install https://github.com/digitaleo/Digitaleo-api-python/
+pip install git+https://github.com/digitaleo/Digitaleo-api-python/
 ```
 
 Usage
